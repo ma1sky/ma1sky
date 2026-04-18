@@ -13,20 +13,26 @@ Feel free to connect with me here:
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square)
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Telegraf](https://img.shields.io/badge/-Telegraf-black?style=flat-square)
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ---
 
@@ -40,7 +46,7 @@ Feel free to connect with me here:
 
 ## 👀 Visitor Count
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ma1sky.ma1sky)
 
 ---
 
