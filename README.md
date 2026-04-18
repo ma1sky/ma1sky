@@ -14,7 +14,7 @@ Feel free to connect with me here:
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
@@ -27,7 +27,7 @@ Feel free to connect with me here:
 
 
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ![Telegraf](https://img.shields.io/badge/-Telegraf-black?style=flat-square)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
