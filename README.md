@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am [ТВОЁ ИМЯ], a passionate developer and tech enthusiast. I enjoy building things for the web, exploring new technologies, and contributing to open-source projects. Always open to collaborating on interesting and innovative ideas.
+I am Artem, a passionate developer and tech enthusiast. I enjoy building things for the web, exploring new technologies, and contributing to open-source projects. Always open to collaborating on interesting and innovative ideas.
 
 Feel free to connect with me here:
 
@@ -32,9 +32,9 @@ Feel free to connect with me here:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ma1sky&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma1sky&layout=compact&theme=tokyonight)
 
 ---
 
