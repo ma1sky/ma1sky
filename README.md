@@ -23,6 +23,8 @@ Feel free to connect with me here:
 ![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![numpy](https://img.shields.io/badge/-numpy-black?style=flat-square&logo=numpy)
+
 
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
