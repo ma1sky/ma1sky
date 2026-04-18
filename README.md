@@ -4,10 +4,10 @@ I am Artem, a passionate developer and tech enthusiast. I enjoy building things 
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
-[![Instagram Badge](https://img.shields.io/badge/-yourhandle-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)
-[![Telegram Badge](https://img.shields.io/badge/-yourhandle-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/)](https://t.me/)
-[![Gmail Badge](https://img.shields.io/badge/-yourmail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/ma1sky)
+[![Instagram Badge](https://img.shields.io/badge/-yourhandle-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/ma1sky)
+[![Telegram Badge](https://img.shields.io/badge/-yourhandle-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/)](https://t.me/yamaysky)
+[![Gmail Badge](https://img.shields.io/badge/-yourmail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gutsalenko1005@gmail.com)
 
 ---
 
