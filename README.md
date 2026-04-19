@@ -20,6 +20,7 @@ Feel free to connect with me here:
 
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-express-black?style=flat-square&logo=express.js)
 ![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
