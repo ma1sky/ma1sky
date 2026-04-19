@@ -24,6 +24,10 @@ Feel free to connect with me here:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![numpy](https://img.shields.io/badge/-numpy-black?style=flat-square&logo=numpy)
+![sympy](https://img.shields.io/badge/-sympy-black?style=flat-square&logo=sympy)
+![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas)
+
+
 
 
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
