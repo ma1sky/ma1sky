@@ -41,7 +41,7 @@ Feel free to connect with me here:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ---
-## LeetCode
+## ⚔️ Codewars
 [![codewars](https://www.codewars.com/users/ma1sky/badges/large)](https://www.codewars.com/users/ma1sky)  
 
 ## 📊 GitHub Stats
