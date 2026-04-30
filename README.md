@@ -32,6 +32,7 @@ Feel free to connect with me here:
 
 
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Prisma](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ![Telegraf](https://img.shields.io/badge/-Telegraf-black?style=flat-square)
