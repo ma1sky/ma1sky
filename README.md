@@ -32,7 +32,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
----
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
@@ -40,7 +39,6 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square)
 
----
 
 ### Базы данных и инфраструктура
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -50,7 +48,6 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Railway](https://img.shields.io/badge/-Railway-black?style=flat-square&logo=railway)
 
----
 
 ### Data Science / ML / Analysis
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
@@ -59,13 +56,10 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)
 ![SymPy](https://img.shields.io/badge/-SymPy-black?style=flat-square)
 
----
 
 ### Тестирование
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
-
----
 
 ### DevTools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -76,16 +70,12 @@
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
----
-
 ### AI / Инструменты
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini-black?style=flat-square)
 ![Perplexity](https://img.shields.io/badge/-Perplexity-black?style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop)
-
----
 
 ### Языки
 - Russian - родной
