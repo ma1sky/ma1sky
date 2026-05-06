@@ -143,13 +143,6 @@ Frontend-разработчик, ориентированный на созда�
 
 ---
 
-## 📊 GitHub статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ma1sky&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma1sky&layout=compact&theme=tokyonight)
-
----
 
 ## 👀 Посетители
 
