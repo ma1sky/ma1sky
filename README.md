@@ -88,9 +88,9 @@
 ---
 
 ### Языки
-![Russian](https://img.shields.io/badge/-Russian-native-black?style=flat-square)
-![English](https://img.shields.io/badge/-English-B1-black?style=flat-square)
-![Romanian](https://img.shields.io/badge/-Romanian-B1-black?style=flat-square)
+- Russian - родной
+- English - B1
+- Romanian - B1
 
 ## 🚀 Ключевые проекты
 
