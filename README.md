@@ -77,13 +77,6 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
-### ⚛️ Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-
 ### 🛠️ DevTools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -97,8 +90,6 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini-black?style=flat-square)
 ![Perplexity](https://img.shields.io/badge/-Perplexity-black?style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop)
 
 ### Языки
 - Russian - родной
